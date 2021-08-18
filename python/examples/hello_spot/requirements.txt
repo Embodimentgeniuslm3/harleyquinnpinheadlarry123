@@ -1,0 +1,6 @@
+-f ../../../prebuilt
+
+bosdyn-client ~= 2.2
+
+Pillow==8.2.0
+
